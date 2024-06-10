@@ -1,0 +1,74 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : Mar 29, 2022, 10:30:28 PM
+    Author     : User
+*/
+
+
+/**{
+    font-size: 50px !important;
+}*/
+
+
+
+*{
+    font-size: 18px;
+}
+
+
+.row{
+        justify-content: center;
+        margin-top:70px;
+}
+
+.form-control{
+      font-size: 14px !important;
+}
+
+.form-control:focus {
+    box-shadow: none;
+  
+}
+
+.profile-button {
+
+    box-shadow: none;
+    border: none
+}
+
+.profile-button:hover {
+ 
+}
+
+.profile-button:focus {
+
+    box-shadow: none
+}
+
+.profile-button:active {
+
+    box-shadow: none
+}
+
+.back:hover {
+
+    cursor: pointer
+}
+
+.labels {
+    font-size: 18px
+}
+
+.add-experience:hover {
+
+    color: #fff;
+    cursor: pointer;
+
+}
+
+.newsletter{
+    margin-top: 251px !important;
+}

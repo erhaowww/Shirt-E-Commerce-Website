@@ -1,0 +1,56 @@
+.div-container{
+    width:1200px;
+    margin:50px auto 50px;
+    border:1px solid black;
+    display:flex;
+    height:auto;
+    font-size: 16px;
+    
+}
+
+.product{
+    padding:15px;
+    height:210px;
+    border:1px solid black;
+    margin:10px 0;
+    background-color: whitesmoke;
+    color:black;
+}
+
+.product:hover{
+    box-shadow: 0 0 5px #668cff;
+}
+.product-image{
+    width:180px;
+    height:180px;
+    float:left;
+}
+.product-details{
+    margin-left:20px;
+    padding-left:10px;
+    padding-right:10px;
+    width:335px;
+    height:180px;
+    display:block;
+    float:left;
+    
+}
+.product-name{
+    font-size:24px;
+    text-align: left;
+    height:70px;
+}
+
+.product-cash{
+    font-size:30px;
+    height:60px;
+}
+
+.product-other{
+    font-size:18px;
+}
+
+.rightside{
+    text-align: right;
+    float:right;
+}
